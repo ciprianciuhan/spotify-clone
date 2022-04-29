@@ -10,6 +10,7 @@
 		7417C801281C1E0E00806F61 /* AudioTrack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7417C800281C1E0E00806F61 /* AudioTrack.swift */; };
 		7417C803281C1E1A00806F61 /* Artist.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7417C802281C1E1A00806F61 /* Artist.swift */; };
 		7417C805281C1E3D00806F61 /* UserProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7417C804281C1E3D00806F61 /* UserProfile.swift */; };
+		7417C807281C2BA300806F61 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7417C806281C2BA300806F61 /* Extensions.swift */; };
 		74F638D0281C1970001C9263 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74F638CF281C1970001C9263 /* AppDelegate.swift */; };
 		74F638D2281C1970001C9263 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74F638D1281C1970001C9263 /* SceneDelegate.swift */; };
 		74F638D4281C1970001C9263 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74F638D3281C1970001C9263 /* ViewController.swift */; };
@@ -55,6 +56,7 @@
 		7417C800281C1E0E00806F61 /* AudioTrack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioTrack.swift; sourceTree = "<group>"; };
 		7417C802281C1E1A00806F61 /* Artist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Artist.swift; sourceTree = "<group>"; };
 		7417C804281C1E3D00806F61 /* UserProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfile.swift; sourceTree = "<group>"; };
+		7417C806281C2BA300806F61 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		74F638CC281C1970001C9263 /* SpotifyClone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SpotifyClone.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		74F638CF281C1970001C9263 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		74F638D1281C1970001C9263 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -193,6 +195,7 @@
 				74F638D8281C1973001C9263 /* Assets.xcassets */,
 				74F638CF281C1970001C9263 /* AppDelegate.swift */,
 				74F638D1281C1970001C9263 /* SceneDelegate.swift */,
+				7417C806281C2BA300806F61 /* Extensions.swift */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -382,6 +385,7 @@
 				74F6390F281C1CED001C9263 /* AuthViewController.swift in Sources */,
 				74F638D0281C1970001C9263 /* AppDelegate.swift in Sources */,
 				7417C805281C1E3D00806F61 /* UserProfile.swift in Sources */,
+				7417C807281C2BA300806F61 /* Extensions.swift in Sources */,
 				74F6390A281C1C8C001C9263 /* LibraryViewController.swift in Sources */,
 				7417C803281C1E1A00806F61 /* Artist.swift in Sources */,
 				74F6391A281C1D4F001C9263 /* PlaylistViewController.swift in Sources */,
