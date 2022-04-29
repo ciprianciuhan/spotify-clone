@@ -12,7 +12,7 @@ final class AuthManager {
     
     struct Constants {
         static let clientID = "77d4ea59694148eb972755b7967e3e82"
-        static let clientSecret = "86385903e84347b9a37252e8db06b85a"
+        static let clientSecret = "x"
     }
     
     private init(){}
