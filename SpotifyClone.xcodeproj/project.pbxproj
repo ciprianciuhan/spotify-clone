@@ -12,6 +12,7 @@
 		7417C805281C1E3D00806F61 /* UserProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7417C804281C1E3D00806F61 /* UserProfile.swift */; };
 		7417C807281C2BA300806F61 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7417C806281C2BA300806F61 /* Extensions.swift */; };
 		74CA42DC281EAC51009C33EB /* AuthResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74CA42DB281EAC51009C33EB /* AuthResponse.swift */; };
+		74CA42DE28226D5D009C33EB /* APIImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74CA42DD28226D5D009C33EB /* APIImage.swift */; };
 		74F638D0281C1970001C9263 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74F638CF281C1970001C9263 /* AppDelegate.swift */; };
 		74F638D2281C1970001C9263 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74F638D1281C1970001C9263 /* SceneDelegate.swift */; };
 		74F638D4281C1970001C9263 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74F638D3281C1970001C9263 /* ViewController.swift */; };
@@ -59,6 +60,7 @@
 		7417C804281C1E3D00806F61 /* UserProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfile.swift; sourceTree = "<group>"; };
 		7417C806281C2BA300806F61 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		74CA42DB281EAC51009C33EB /* AuthResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthResponse.swift; sourceTree = "<group>"; };
+		74CA42DD28226D5D009C33EB /* APIImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIImage.swift; sourceTree = "<group>"; };
 		74F638CC281C1970001C9263 /* SpotifyClone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SpotifyClone.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		74F638CF281C1970001C9263 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		74F638D1281C1970001C9263 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -188,6 +190,7 @@
 				7417C802281C1E1A00806F61 /* Artist.swift */,
 				7417C804281C1E3D00806F61 /* UserProfile.swift */,
 				74CA42DB281EAC51009C33EB /* AuthResponse.swift */,
+				74CA42DD28226D5D009C33EB /* APIImage.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -376,6 +379,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				74F63908281C1C62001C9263 /* SearchViewController.swift in Sources */,
+				74CA42DE28226D5D009C33EB /* APIImage.swift in Sources */,
 				74F63924281C1DC9001C9263 /* Playlist.swift in Sources */,
 				74F6391E281C1D91001C9263 /* AuthManager.swift in Sources */,
 				74F6391C281C1D64001C9263 /* SearchResultsViewController.swift in Sources */,
