@@ -1,10 +1,3 @@
-//
-//  AuthManager.swift
-//  SpotifyClone
-//
-//  Created by Ciprian Cucu-Ciuhan on 29.04.2022.
-//
-
 import Foundation
 
 final class AuthManager {
@@ -13,8 +6,8 @@ final class AuthManager {
     private var refreshingToken = false
 
     struct Constants {
-        static let clientID = "77d4ea59694148eb972755b7967e3e82"
-        static let clientSecret = "x"
+        static let clientID = "x" //AICI SE INTRODUCE CLIENT ID
+        static let clientSecret = "x" //AICI SE INTRODUCE CLIENT SECRET
         static let tokenAPIURL = "https://accounts.spotify.com/api/token"
         static let redirectURI = "https://www.spotify.com"
         static let scopes = "user-read-private%20playlist-modify-public%20playlist-read-private%20playlist-modify-private%20user-follow-read%20user-library-modify%20user-library-read%20user-read-email"

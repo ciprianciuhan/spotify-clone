@@ -1,10 +1,3 @@
-//
-//  AuthResponse.swift
-//  SpotifyClone
-//
-//  Created by Ciprian Cucu-Ciuhan on 01.05.2022.
-//
-
 import Foundation
 
 struct AuthResponse: Codable {

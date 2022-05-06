@@ -1,10 +1,3 @@
-//
-//  PlaylistDetailsResponse.swift
-//  SpotifyClone
-//
-//  Created by Andrei-Liviu Iliescu on 04.05.2022.
-//
-
 struct PlaylistDetailsResponse: Codable {
     let description: String
     let external_urls: [String: String]
